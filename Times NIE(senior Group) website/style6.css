@@ -1,0 +1,73 @@
+body{
+background: #26AFBF;
+}
+.feedback-form{
+background: #fff;
+margin-top: 7%;
+margin-bottom: 3%;
+}
+.feedback-form .form-control{
+border-radius: 1rem;
+}
+.feedback-image{
+text-align: center;
+}
+.feedback-form form{
+padding:8%;
+}
+.feedback-form form .row{
+margin-bottom: -6%;
+}
+.feedback-form h3{
+text-align: center;
+color: #0062cc;
+margin-top: 6%;
+}
+.feedback-form .btnfeedback{
+width: 50%;
+border: 1px;
+border-radius: 1rem;
+padding: 1.5%;
+background: #0062cc;
+font-weight: 600;
+color: #fff;
+cursor: pointer;
+}
+.feedback-form p{
+margin-top: 10px;
+margin-bottom: 3px;
+color: gray;
+}
+.h3, h3 {
+    font-size: 3rem;
+	margin-bottom: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
